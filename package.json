@@ -1,0 +1,31 @@
+{
+  "name": "cypress-api-testing-framework",
+  "version": "1.0.0",
+  "description": "API testing framework using Cypress toll and JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cy.run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshyadav/Cypress-API-Testing-Framework.git"
+  },
+  "keywords": [
+    "API Testing",
+    "API Testing Framework",
+    "Cypress",
+    "Javascript Framework"
+  ],
+  "author": "Ansh Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anshyadav/Cypress-API-Testing-Framework/issues"
+  },
+  "homepage": "https://github.com/anshyadav/Cypress-API-Testing-Framework#readme",
+  "devDependencies": {
+    "cypress": "^6.8.0"
+  },
+  "dependencies": {
+    "prettier": "^2.2.1"
+  }
+}
